@@ -83,6 +83,8 @@ git push -u origin main
 
 и в обратную сторону
 
+git pull
+
 ## И все работает
 
 
