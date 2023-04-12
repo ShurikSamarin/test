@@ -81,4 +81,6 @@ git push -u origin main
 
 ## Загрузка из Github
 
+и в обратную сторону
+
 
