@@ -70,3 +70,13 @@
 ## Работа с таблицами
 
 ## Заключение
+
+## Выгрузка в Github
+
+git remote add origin https://github.com/ShurikSamarin/test.git
+
+git branch -M main
+
+git push -u origin main
+
+
